@@ -5,3 +5,5 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "I am Devops-2"
 echo "Rohit Jadhav"
+echo "Adding line"
+echo "conflict
